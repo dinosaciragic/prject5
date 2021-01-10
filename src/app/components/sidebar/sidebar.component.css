@@ -1,0 +1,9 @@
+.custom-name {
+    padding: 15px 0px;
+    margin: 0;
+    display: block;
+    position: relative;
+    z-index: 4;
+    text-align: center;
+    font-weight: bold;
+}
